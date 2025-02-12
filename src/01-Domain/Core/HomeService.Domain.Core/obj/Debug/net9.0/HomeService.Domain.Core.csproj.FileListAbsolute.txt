@@ -1,0 +1,13 @@
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\obj\Debug\net9.0\HomeService.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\obj\Debug\net9.0\HomeService.Domain.Core.AssemblyInfoInputs.cache
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\obj\Debug\net9.0\HomeService.Domain.Core.AssemblyInfo.cs
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\obj\Debug\net9.0\HomeService.Domain.Core.csproj.CoreCompileInputs.cache
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\obj\Debug\net9.0\HomeService.Domain.Core.csproj.AssemblyReference.cache
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\bin\Debug\net9.0\HomeService.Domain.Core.deps.json
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\bin\Debug\net9.0\HomeService.Domain.Core.dll
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\bin\Debug\net9.0\HomeService.Domain.Core.pdb
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\obj\Debug\net9.0\HomeService.Domain.Core.dll
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\obj\Debug\net9.0\refint\HomeService.Domain.Core.dll
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\obj\Debug\net9.0\HomeService.Domain.Core.pdb
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\obj\Debug\net9.0\ref\HomeService.Domain.Core.dll
+D:\maktab\24\Code\HomeService\src\01-Domain\Core\HomeService.Domain.Core\obj\Debug\net9.0\HomeService.Domain.Core.sourcelink.json

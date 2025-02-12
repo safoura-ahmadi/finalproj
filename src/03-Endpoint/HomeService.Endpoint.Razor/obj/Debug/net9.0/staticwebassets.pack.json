@@ -1,0 +1,1665 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HomeService.Endpoint.Razor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HomeService.Endpoint.Razor.csz0mfcyle.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\css\\colors.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\css\\colors.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\css\\effects.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\css\\effects.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\css\\style.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\eot\\IRANSans(FaNum)_Medium.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\eot\\IRANSans(FaNum)_Medium.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\eot\\IRANSansWeb(FaNum).eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\eot\\IRANSansWeb(FaNum).eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\eot\\IRANSansWeb(FaNum)_Bold.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\eot\\IRANSansWeb(FaNum)_Bold.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\eot\\IRANSansWeb(FaNum)_Light.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\eot\\IRANSansWeb(FaNum)_Light.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\eot\\IRANSansWeb(FaNum)_Medium.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\eot\\IRANSansWeb(FaNum)_Medium.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\eot\\IRANSansWeb(FaNum)_UltraLight.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\eot\\IRANSansWeb(FaNum)_UltraLight.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\ttf\\IRANSansWeb(FaNum).ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\ttf\\IRANSansWeb(FaNum).ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\ttf\\IRANSansWeb(FaNum)_Bold.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\ttf\\IRANSansWeb(FaNum)_Bold.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\ttf\\IRANSansWeb(FaNum)_Light.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\ttf\\IRANSansWeb(FaNum)_Light.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\ttf\\IRANSansWeb(FaNum)_Medium.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\ttf\\IRANSansWeb(FaNum)_Medium.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\ttf\\IRANSansWeb(FaNum)_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\ttf\\IRANSansWeb(FaNum)_UltraLight.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\woff2\\IRANSansWeb(FaNum.html",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\woff2\\IRANSansWeb(FaNum.html"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\woff\\IRANSansWeb(FaNum).woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\woff\\IRANSansWeb(FaNum).woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\woff\\IRANSansWeb(FaNum)_Bold.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\woff\\IRANSansWeb(FaNum)_Bold.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\woff\\IRANSansWeb(FaNum)_Light.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\woff\\IRANSansWeb(FaNum)_Light.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\woff\\IRANSansWeb(FaNum)_Medium.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\woff\\IRANSansWeb(FaNum)_Medium.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\woff\\IRANSansWeb(FaNum)_UltraLight.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\woff\\IRANSansWeb(FaNum)_UltraLight.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans-fanum\\woff\\IRANSansWeb(FaNum.html",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans-fanum\\woff\\IRANSansWeb(FaNum.html"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb(NoEn).eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb(NoEn).eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb(NoEn)_Bold.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb(NoEn)_Bold.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb(NoEn)_Light.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb(NoEn)_Light.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb(NoEn)_Medium.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb(NoEn)_Medium.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb(NoEn)_UltraLight.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb(NoEn)_UltraLight.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\eot\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb(NoEn).ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb(NoEn).ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb(NoEn)_Bold.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb(NoEn)_Bold.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb(NoEn)_Light.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb(NoEn)_Light.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb(NoEn)_Medium.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb(NoEn)_Medium.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb(NoEn)_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb(NoEn)_UltraLight.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\ttf\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb(NoEn).woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb(NoEn).woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb(NoEn)_Bold.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb(NoEn)_Bold.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb(NoEn)_Light.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb(NoEn)_Light.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb(NoEn)_Medium.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb(NoEn)_Medium.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb(NoEn)_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb(NoEn)_UltraLight.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff2\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb(NoEn).woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb(NoEn).woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb(NoEn)_Bold.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb(NoEn)_Bold.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb(NoEn)_Light.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb(NoEn)_Light.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb(NoEn)_Medium.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb(NoEn)_Medium.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb(NoEn)_UltraLight.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb(NoEn)_UltraLight.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\fonts\\iransans\\woff\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\AjaxLoader.gif",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\AjaxLoader.gif"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\bg\\blur-dark.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\bg\\blur-dark.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\bg\\blur.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\bg\\blur.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\logo.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\other\\bird.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\other\\bird.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\other\\birds.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\other\\birds.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\other\\hafez-tomb.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\other\\hafez-tomb.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\sidebar-bg\\1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\sidebar-bg\\1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\sidebar-bg\\2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\sidebar-bg\\2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\sidebar-bg\\3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\sidebar-bg\\3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\sidebar-bg\\4.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\sidebar-bg\\4.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\sidebar-bg\\5.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\sidebar-bg\\5.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\sidebar-bg\\thumb\\1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\sidebar-bg\\thumb\\1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\sidebar-bg\\thumb\\2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\sidebar-bg\\thumb\\2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\sidebar-bg\\thumb\\3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\sidebar-bg\\thumb\\3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\sidebar-bg\\thumb\\4.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\sidebar-bg\\thumb\\4.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\sidebar-bg\\thumb\\5.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\sidebar-bg\\thumb\\5.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\sidebar-bg\\thumb\\no-image.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\sidebar-bg\\thumb\\no-image.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\user\\128.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\user\\128.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\user\\32.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\user\\32.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\user\\48.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\user\\48.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\user\\64.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\user\\64.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\user\\customer.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\user\\customer.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\images\\user\\placeholder.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\images\\user\\placeholder.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\core.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\core.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\ammap.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\ammap.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\bar-chart.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\bar-chart.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\calendar-kama.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\calendar-kama.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\calendar-ui.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\calendar-ui.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\calendar.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\calendar.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\change-password.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\change-password.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\ckeditor.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\clock.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\clock.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\cropper.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\cropper.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\dashboard1.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\dashboard1.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\datatable-export.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\datatable-export.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\datatable.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\datatable.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\edit-profile.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\edit-profile.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\forget.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\forget.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\googlemap.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\googlemap.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\icons.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\icons.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\knob.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\knob.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\ladda.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\ladda.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\leaflet.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\leaflet.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\line-chart.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\line-chart.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\login.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\login.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\nestable.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\nestable.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\noty.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\noty.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\pie-chart.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\pie-chart.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\realtime-chart.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\realtime-chart.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\register.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\register.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\select2.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\select2.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\summernote.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\summernote.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\swal.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\swal.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\under_construction.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\under_construction.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\validation.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\validation.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\js\\pages\\wizard.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\js\\pages\\wizard.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\ammap3\\ammap\\ammap.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\ammap3\\ammap\\ammap.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\ammap3\\ammap\\ammap.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\ammap3\\ammap\\ammap.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\ammap3\\ammap\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\ammap3\\ammap\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\ammap3\\ammap\\maps\\js\\iranHighFa.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\ammap3\\ammap\\maps\\js\\iranHighFa.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\ammap3\\ammap\\maps\\js\\worldLow.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\ammap3\\ammap\\maps\\js\\worldLow.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\bootstrap\\bootstrap5\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\bootstrap\\bootstrap5\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\bootstrap\\bootstrap5\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\bootstrap\\bootstrap5\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\chart.js\\dist\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\chart.js\\dist\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\ckeditor-full\\ckeditor.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\ckeditor-full\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\cropper\\css\\cropper.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\cropper\\css\\cropper.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\cropper\\js\\cropper.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\cropper\\js\\cropper.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\DataTables-1.10.16\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\DataTables-1.10.16\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\DataTables-1.10.16\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\DataTables-1.10.16\\images\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\DataTables-1.10.16\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\DataTables-1.10.16\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\DataTables-1.10.16\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\DataTables-1.10.16\\images\\sort_both.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\DataTables-1.10.16\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\DataTables-1.10.16\\images\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\DataTables-1.10.16\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\DataTables-1.10.16\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\js\\export\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\js\\export\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\js\\export\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\js\\export\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\js\\export\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\js\\export\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\js\\export\\fa.json",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\js\\export\\fa.json"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\js\\export\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\js\\export\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\js\\export\\jszip.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\js\\export\\jszip.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\js\\export\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\js\\export\\pdfmake.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\js\\export\\vfs_fonts-iransans.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\js\\export\\vfs_fonts-iransans.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\data-table\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\data-table\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\datepicker\\calendar.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\datepicker\\calendar.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\datepicker\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\datepicker\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\datepicker\\jquery-ui-1.10.1.custom.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\datepicker\\jquery-ui-1.10.1.custom.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\datepicker\\jquery.ui.datepicker-cc-fa.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\datepicker\\jquery.ui.datepicker-cc-fa.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\datepicker\\jquery.ui.datepicker-cc.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\datepicker\\jquery.ui.datepicker-cc.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\datepicker\\jquery.ui.datepicker1.8-all.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\datepicker\\jquery.ui.datepicker1.8-all.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\icheck.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\_all.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\_all.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\aero.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\aero.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\aero@2x.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\aero@2x.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\blue.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\blue.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\blue@2x.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\blue@2x.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\green.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\green.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\green@2x.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\green@2x.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\grey.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\grey.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\grey@2x.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\grey@2x.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\orange.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\orange.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\orange@2x.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\orange@2x.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\pink.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\pink.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\pink@2x.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\pink@2x.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\purple.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\purple.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\purple@2x.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\purple@2x.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\red.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\red.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\red@2x.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\red@2x.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\square.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\square.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\square@2x.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\square@2x.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\yellow.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\yellow.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\iCheck\\skins\\square\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\iCheck\\skins\\square\\yellow@2x.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\jquery-incremental-counter\\jquery.incremental-counter.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\jquery-incremental-counter\\jquery.incremental-counter.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\jquery-knob\\dist\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\jquery-knob\\dist\\jquery.knob.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\jquery-mask\\jquery.mask.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\jquery-mask\\jquery.mask.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\jquery-migrate\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\jquery-migrate\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\jquery-validation\\src\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\jquery-validation\\src\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\jquery.countdown\\dist\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\jquery.countdown\\dist\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\jquery\\dist\\jquery-3.6.1.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\jquery\\dist\\jquery-3.6.1.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\kamadatepicker\\kamadatepicker.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\kamadatepicker\\kamadatepicker.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\kamadatepicker\\kamadatepicker.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\kamadatepicker\\kamadatepicker.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\ladda\\dist\\ladda-themeless.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\ladda\\dist\\ladda-themeless.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\ladda\\dist\\ladda.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\ladda\\dist\\ladda.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\ladda\\dist\\spin.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\ladda\\dist\\spin.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\leaflet\\images\\layers-2x.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\leaflet\\images\\layers-2x.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\leaflet\\images\\layers.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\leaflet\\images\\layers.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\leaflet\\images\\marker-icon.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\leaflet\\images\\marker-icon.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\leaflet\\leaflet.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\leaflet\\leaflet.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\leaflet\\leaflet.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\leaflet\\leaflet.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\malihu-custom-scrollbar-plugin\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\malihu-custom-scrollbar-plugin\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\malihu-custom-scrollbar-plugin\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\malihu-custom-scrollbar-plugin\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\malihu-custom-scrollbar-plugin\\mCSB_buttons.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\malihu-custom-scrollbar-plugin\\mCSB_buttons.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\metisMenu\\dist\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\metisMenu\\dist\\metisMenu.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\metisMenu\\dist\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\metisMenu\\dist\\metisMenu.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\morris.js\\morris.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\morris.js\\morris.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\morris.js\\morris.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\morris.js\\morris.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\nestable\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\nestable\\jquery.nestable.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\nestable\\nestable.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\nestable\\nestable.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\noty\\css\\flat.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\noty\\css\\flat.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\noty\\js\\noty\\packaged\\jquery.noty.packaged.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\noty\\js\\noty\\packaged\\jquery.noty.packaged.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\paper-ripple\\dist\\PaperRipple.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\paper-ripple\\dist\\PaperRipple.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\paper-ripple\\dist\\paper-ripple.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\paper-ripple\\dist\\paper-ripple.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\persian-date\\persian-date.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\persian-date\\persian-date.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\persian-datepicker\\css\\persian-datepicker.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\persian-datepicker\\css\\persian-datepicker.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\persian-datepicker\\js\\persian-datepicker.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\persian-datepicker\\js\\persian-datepicker.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\screenfull\\dist\\screenfull.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\screenfull\\dist\\screenfull.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\select2\\dist\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\select2\\dist\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\select2\\dist\\js\\i18n\\fa.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\select2\\dist\\js\\i18n\\fa.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\select2\\dist\\js\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\select2\\dist\\js\\select2.full.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\simple-line-icons\\css\\simple-line-icons.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\simple-line-icons\\css\\simple-line-icons.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.svg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.svg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\stepy\\lib\\jquery.stepy.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\stepy\\lib\\jquery.stepy.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\stepy\\lib\\jquery.stepy.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\stepy\\lib\\jquery.stepy.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\summernote\\dist\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\summernote\\dist\\font\\summernote.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\summernote\\dist\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\summernote\\dist\\font\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\summernote\\dist\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\summernote\\dist\\font\\summernote.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\summernote\\dist\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\summernote\\dist\\font\\summernote.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\summernote\\dist\\font\\summernoted41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\summernote\\dist\\font\\summernoted41d.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\summernote\\dist\\summernote.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\summernote\\dist\\summernote.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\summernote\\dist\\summernote.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\summernote\\dist\\summernote.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\sweetalert2\\dist\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\sweetalert2\\dist\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\sweetalert2\\dist\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\sweetalert2\\dist\\sweetalert2.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\switchery\\dist\\switchery.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\switchery\\dist\\switchery.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\AdminTemplate\\plugins\\switchery\\dist\\switchery.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\plugins\\switchery\\dist\\switchery.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\Images\\Profiles\\11aa527e-3691-4a84-89a9-6a2b84fbcebewp12161651-windows-11-white-wallpapers.jpg",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\11aa527e-3691-4a84-89a9-6a2b84fbcebewp12161651-windows-11-white-wallpapers.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\Images\\Profiles\\40b0c918-fb8d-4d73-9861-20b2d26d72b364.png",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\40b0c918-fb8d-4d73-9861-20b2d26d72b364.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\Images\\Profiles\\5d3ea7fb-0d78-45b7-b882-f8f729cf2920128.png",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\5d3ea7fb-0d78-45b7-b882-f8f729cf2920128.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\Images\\Profiles\\80a6d84f-52db-4c3b-b3a0-2ca3b550b8d7customer.png",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\80a6d84f-52db-4c3b-b3a0-2ca3b550b8d7customer.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\Images\\Profiles\\daa9dff6-e3c3-41c7-936d-abd24315725ecustomer.png",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\daa9dff6-e3c3-41c7-936d-abd24315725ecustomer.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\Images\\Profiles\\f0f0d8da-b8b3-4b16-b30b-91021455bdd5customer.png",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\f0f0d8da-b8b3-4b16-b30b-91021455bdd5customer.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\Images\\trending\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending\\1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\Images\\trending\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending\\2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\Images\\trending\\3.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending\\3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\Images\\trending\\4.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending\\4.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\UserTemplate\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\UserTemplate\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\UserTemplate\\css\\icofont.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\css\\main.css",
+      "PackagePath": "staticwebassets\\UserTemplate\\css\\main.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\UserTemplate\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\UserTemplate\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\css\\presets\\preset1.css",
+      "PackagePath": "staticwebassets\\UserTemplate\\css\\presets\\preset1.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\UserTemplate\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\css\\slidr.css",
+      "PackagePath": "staticwebassets\\UserTemplate\\css\\slidr.css"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Boldd41d.eot",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Boldd41d.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Lightd41d.eot",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Lightd41d.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWeb_Mediumd41d.eot",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWeb_Mediumd41d.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\IRANSansWebd41d.eot",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\IRANSansWebd41d.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\fontawesome-webfont3e6e3e6e.eot",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\fontawesome-webfont3e6e3e6e.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\fontawesome-webfont3e6e3e6e.svg",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\fontawesome-webfont3e6e3e6e.svg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\fontawesome-webfont3e6e3e6e.ttf",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\fontawesome-webfont3e6e3e6e.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\fontawesome-webfont3e6e3e6e.woff",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\fontawesome-webfont3e6e3e6e.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\fontawesome-webfont3e6e3e6e.woff2",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\fontawesome-webfont3e6e3e6e.woff2"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\fontawesome-webfontd41dd41d.eot",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\fontawesome-webfontd41dd41d.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\icofont4d844d84.eot",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\icofont4d844d84.eot"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\icofont4d844d84.svg",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\icofont4d844d84.svg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\icofont4d844d84.ttf",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\icofont4d844d84.ttf"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\fonts\\icofont4d844d84.woff",
+      "PackagePath": "staticwebassets\\UserTemplate\\fonts\\icofont4d844d84.woff"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\1.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\1.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\about-us\\1.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\about-us\\1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\about-us\\10.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\about-us\\10.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\about-us\\11.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\about-us\\11.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\about-us\\12.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\about-us\\12.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\about-us\\2.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\about-us\\2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\about-us\\3.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\about-us\\3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\about-us\\4.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\about-us\\4.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\about-us\\5.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\about-us\\5.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\about-us\\6.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\about-us\\6.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\about-us\\7.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\about-us\\7.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\about-us\\8.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\about-us\\8.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\about-us\\9.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\about-us\\9.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\ads\\1.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\ads\\1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\ads\\2.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\ads\\2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\ads\\3.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\ads\\3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\bg\\1.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\bg\\1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\bg\\2.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\bg\\2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\bg\\car1.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\bg\\car1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\bg\\car2.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\bg\\car2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\bg\\car3.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\bg\\car3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\bg\\col-to-action.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\bg\\col-to-action.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\bg\\coming-soon.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\bg\\coming-soon.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\car\\1.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\car\\1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\car\\2.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\car\\2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\car\\3.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\car\\3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\car\\4.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\car\\4.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\car\\5.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\car\\5.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\car\\6.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\car\\6.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\car\\7.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\car\\7.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\car\\8.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\car\\8.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\directory\\1.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\directory\\1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\directory\\10.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\directory\\10.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\directory\\11.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\directory\\11.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\directory\\12.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\directory\\12.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\directory\\2.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\directory\\2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\directory\\3.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\directory\\3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\directory\\4.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\directory\\4.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\directory\\5.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\directory\\5.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\directory\\6.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\directory\\6.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\directory\\7.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\directory\\7.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\directory\\8.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\directory\\8.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\directory\\9.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\directory\\9.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\featured\\1.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\featured\\1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\featured\\2.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\featured\\2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\featured\\3.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\featured\\3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\ico\\apple-touch-icon-114-precomposed.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\ico\\apple-touch-icon-114-precomposed.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\ico\\apple-touch-icon-144-precomposed.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\ico\\apple-touch-icon-144-precomposed.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\ico\\apple-touch-icon-57-precomposed.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\ico\\apple-touch-icon-57-precomposed.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\ico\\apple-touch-icon-72-precomposed.html",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\ico\\apple-touch-icon-72-precomposed.html"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\ico\\favicon.ico",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\ico\\favicon.ico"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\1.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\1.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\10.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\10.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\11.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\11.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\12.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\12.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\13.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\13.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\14.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\14.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\15.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\15.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\16.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\16.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\17.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\17.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\18.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\18.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\2.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\2.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\3.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\3.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\4.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\4.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\5.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\5.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\6.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\6.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\7.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\7.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\8.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\8.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\icon\\9.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\icon\\9.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\1.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\10.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\10.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\11.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\11.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\12.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\12.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\13.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\13.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\14.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\14.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\2.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\3.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\4.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\4.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\5.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\5.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\6.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\6.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\7.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\7.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\8.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\8.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\listing\\9.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\listing\\9.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\logo.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\logo2.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\logo3.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\logo3.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\mobile.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\mobile.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\slider\\5.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\slider\\list-1.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\slider\\list-1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\slider\\list-2.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\slider\\list-2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\slider\\list-3.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\slider\\list-3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\slider\\list-4.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\slider\\list-4.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\slider\\list-5.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\slider\\list-5.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\top.png",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\top.png"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\trending\\1.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\trending\\1.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\trending\\2.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\trending\\2.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\trending\\3.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\trending\\3.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\trending\\4.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\trending\\4.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\UserTemplate\\images\\user.jpg"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\custom.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\goMap.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\goMap.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\map.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\map.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\modernizr.min.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\modernizr.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\price-range.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\scrollup.min.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\scrollup.min.js"
+    },
+    {
+      "Id": "D:\\maktab\\24\\Code\\HomeService\\src\\03-Endpoint\\HomeService.Endpoint.Razor\\wwwroot\\UserTemplate\\js\\switcher.js",
+      "PackagePath": "staticwebassets\\UserTemplate\\js\\switcher.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.HomeService.Endpoint.Razor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.HomeService.Endpoint.Razor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.HomeService.Endpoint.Razor.props",
+      "PackagePath": "build\\HomeService.Endpoint.Razor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.HomeService.Endpoint.Razor.props",
+      "PackagePath": "buildMultiTargeting\\HomeService.Endpoint.Razor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.HomeService.Endpoint.Razor.props",
+      "PackagePath": "buildTransitive\\HomeService.Endpoint.Razor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\maktab\\24\\Code\\HomeService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|d:\\maktab\\24\\code\\homeservice\\src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\repository\\orders\\orderefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|solutionrelative:src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\repository\\orders\\orderefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|d:\\maktab\\24\\code\\homeservice\\src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\configuration\\orders\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|solutionrelative:src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\configuration\\orders\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|d:\\maktab\\24\\code\\homeservice\\src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\configuration\\users\\adminconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|solutionrelative:src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\configuration\\users\\adminconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655E6C9-964B-4AAA-94F1-04468FA3137F}|src\\01-Domain\\Core\\HomeService.Domain.Core\\HomeService.Domain.Core.csproj|d:\\maktab\\24\\code\\homeservice\\src\\01-domain\\core\\homeservice.domain.core\\entities\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655E6C9-964B-4AAA-94F1-04468FA3137F}|src\\01-Domain\\Core\\HomeService.Domain.Core\\HomeService.Domain.Core.csproj|solutionrelative:src\\01-domain\\core\\homeservice.domain.core\\entities\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|d:\\maktab\\24\\code\\homeservice\\src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\configuration\\users\\expertconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|solutionrelative:src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\configuration\\users\\expertconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|d:\\maktab\\24\\code\\homeservice\\src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\configuration\\users\\expertsubserviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|solutionrelative:src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\configuration\\users\\expertsubserviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|d:\\maktab\\24\\code\\homeservice\\src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\configuration\\users\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|solutionrelative:src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\configuration\\users\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|d:\\maktab\\24\\code\\homeservice\\src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\common\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|solutionrelative:src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\common\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655E6C9-964B-4AAA-94F1-04468FA3137F}|src\\01-Domain\\Core\\HomeService.Domain.Core\\HomeService.Domain.Core.csproj|d:\\maktab\\24\\code\\homeservice\\src\\01-domain\\core\\homeservice.domain.core\\dtos\\orders\\getorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655E6C9-964B-4AAA-94F1-04468FA3137F}|src\\01-Domain\\Core\\HomeService.Domain.Core\\HomeService.Domain.Core.csproj|solutionrelative:src\\01-domain\\core\\homeservice.domain.core\\dtos\\orders\\getorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|d:\\maktab\\24\\code\\homeservice\\src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\configuration\\baseentites\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|solutionrelative:src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\configuration\\baseentites\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655E6C9-964B-4AAA-94F1-04468FA3137F}|src\\01-Domain\\Core\\HomeService.Domain.Core\\HomeService.Domain.Core.csproj|d:\\maktab\\24\\code\\homeservice\\src\\01-domain\\core\\homeservice.domain.core\\dtos\\orders\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655E6C9-964B-4AAA-94F1-04468FA3137F}|src\\01-Domain\\Core\\HomeService.Domain.Core\\HomeService.Domain.Core.csproj|solutionrelative:src\\01-domain\\core\\homeservice.domain.core\\dtos\\orders\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655E6C9-964B-4AAA-94F1-04468FA3137F}|src\\01-Domain\\Core\\HomeService.Domain.Core\\HomeService.Domain.Core.csproj|d:\\maktab\\24\\code\\homeservice\\src\\01-domain\\core\\homeservice.domain.core\\homeservice.domain.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2655E6C9-964B-4AAA-94F1-04468FA3137F}|src\\01-Domain\\Core\\HomeService.Domain.Core\\HomeService.Domain.Core.csproj|solutionrelative:src\\01-domain\\core\\homeservice.domain.core\\homeservice.domain.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|d:\\maktab\\24\\code\\homeservice\\src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\homeservice.infrastructure.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|solutionrelative:src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\homeservice.infrastructure.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|d:\\maktab\\24\\code\\homeservice\\src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\repository\\categories\\subserviceefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196FE36F-907B-4E1F-ACCC-28F58971F540}|src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj|solutionrelative:src\\02-infrastructure\\efcore\\homeservice.infrastructure.efcore\\repository\\categories\\subserviceefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Orders\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Orders\\OrderConfiguration.cs",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Orders\\OrderConfiguration.cs",
+              "RelativeToolTip": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Orders\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:56:26.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminConfiguration.cs",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\AdminConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\AdminConfiguration.cs",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\AdminConfiguration.cs",
+              "RelativeToolTip": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\AdminConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:56:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\UserConfiguration.cs",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\UserConfiguration.cs",
+              "RelativeToolTip": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\UserConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:56:03.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpertConfiguration.cs",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\ExpertConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\ExpertConfiguration.cs",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\ExpertConfiguration.cs",
+              "RelativeToolTip": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\ExpertConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:55:59.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpertSubServiceConfiguration.cs",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\ExpertSubServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\ExpertSubServiceConfiguration.cs",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\ExpertSubServiceConfiguration.cs",
+              "RelativeToolTip": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\Users\\ExpertSubServiceConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:55:57.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetOrderDto.cs",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\01-Domain\\Core\\HomeService.Domain.Core\\Dtos\\Orders\\GetOrderDto.cs",
+              "RelativeDocumentMoniker": "src\\01-Domain\\Core\\HomeService.Domain.Core\\Dtos\\Orders\\GetOrderDto.cs",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\01-Domain\\Core\\HomeService.Domain.Core\\Dtos\\Orders\\GetOrderDto.cs",
+              "RelativeToolTip": "src\\01-Domain\\Core\\HomeService.Domain.Core\\Dtos\\Orders\\GetOrderDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:51:47.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\01-Domain\\Core\\HomeService.Domain.Core\\Entities\\Orders\\Order.cs",
+              "RelativeDocumentMoniker": "src\\01-Domain\\Core\\HomeService.Domain.Core\\Entities\\Orders\\Order.cs",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\01-Domain\\Core\\HomeService.Domain.Core\\Entities\\Orders\\Order.cs",
+              "RelativeToolTip": "src\\01-Domain\\Core\\HomeService.Domain.Core\\Entities\\Orders\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:47:59.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderEfRepository.cs",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Repository\\Orders\\OrderEfRepository.cs",
+              "RelativeDocumentMoniker": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Repository\\Orders\\OrderEfRepository.cs",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Repository\\Orders\\OrderEfRepository.cs*",
+              "RelativeToolTip": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Repository\\Orders\\OrderEfRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:46:10.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Common\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Common\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Common\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Common\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:39:14.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentConfiguration.cs",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\BaseEntites\\CommentConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\BaseEntites\\CommentConfiguration.cs",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\BaseEntites\\CommentConfiguration.cs",
+              "RelativeToolTip": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Configuration\\BaseEntites\\CommentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:39:12.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\01-Domain\\Core\\HomeService.Domain.Core\\Dtos\\Orders\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "src\\01-Domain\\Core\\HomeService.Domain.Core\\Dtos\\Orders\\CreateOrderDto.cs",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\01-Domain\\Core\\HomeService.Domain.Core\\Dtos\\Orders\\CreateOrderDto.cs",
+              "RelativeToolTip": "src\\01-Domain\\Core\\HomeService.Domain.Core\\Dtos\\Orders\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:29:49.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeService.Domain.Core.csproj",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\01-Domain\\Core\\HomeService.Domain.Core\\HomeService.Domain.Core.csproj",
+              "RelativeDocumentMoniker": "src\\01-Domain\\Core\\HomeService.Domain.Core\\HomeService.Domain.Core.csproj",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\01-Domain\\Core\\HomeService.Domain.Core\\HomeService.Domain.Core.csproj",
+              "RelativeToolTip": "src\\01-Domain\\Core\\HomeService.Domain.Core\\HomeService.Domain.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T18:29:49.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeService.Infrastructure.EfCore.csproj",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj",
+              "RelativeDocumentMoniker": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj",
+              "RelativeToolTip": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\HomeService.Infrastructure.EfCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T18:29:48.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubServiceEfRepository.cs",
+              "DocumentMoniker": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Repository\\Categories\\SubServiceEfRepository.cs",
+              "RelativeDocumentMoniker": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Repository\\Categories\\SubServiceEfRepository.cs",
+              "ToolTip": "D:\\maktab\\24\\Code\\HomeService\\src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Repository\\Categories\\SubServiceEfRepository.cs",
+              "RelativeToolTip": "src\\02-Infrastructure\\EfCore\\HomeService.Infrastructure.EfCore\\Repository\\Categories\\SubServiceEfRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:27:34.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
